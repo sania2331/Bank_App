@@ -19,5 +19,5 @@ Bank-Management-System/
 ## 🚀 How to Run
 
 ```bash
-python bank_app.py
+steamlit run bank_app.py
 ```
